@@ -157,7 +157,6 @@ str1 = ""
 data = str1.join(con_list)
 print(data)
 
-
 ################################################
 
 import circle_functions as circle
